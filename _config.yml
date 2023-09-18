@@ -1,0 +1,11 @@
+title: Service Synergy
+description: landing page
+baseurl: /
+url: https://workerlimit.github.io
+
+markdown: kramdown
+theme: jekyll-theme-minimal
+
+sass:
+  sass_dir: src/assets/scss
+
